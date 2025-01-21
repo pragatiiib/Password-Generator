@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .checkboxes {
+    margin-top: 20px;
+  }
+  
+  .password {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .password button {
+    margin-left: 10px;
+  }
