@@ -1,4 +1,4 @@
-function generatePassword() {
+function generatePassword() 
     const length = document.getElementById("length").value;
     const hasUppercase = document.getElementById("uppercase").checked;
     const hasLowercase = document.getElementById("lowercase").checked;
